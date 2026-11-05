@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="th">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>ข้อความกลางหน้าเว็บ</title>
+  <style>
+    html, body {
+      height: 100%;
+      margin: 0;
+    }
+    body {
+      display: flex;
+      justify-content: center; /* กลางแนวนอน */
+      align-items: center;     /* กลางแนวตั้ง */
+      font-family: sans-serif;
+    }
+  </style>
+</head>
+<body>
+  <h1>มันไม่มีเว็บไถตังอะไรหรอก ไอควาย som nuke</h1>
+</body>
+</html>
